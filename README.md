@@ -7,6 +7,8 @@ I study at the school of programming from Sber "School 21". I am graduating from
 
 ![Java](https://img.shields.io/badge/Java-1E7775?style=for-the-badge&logo=java&logoColor=E9D54D)
 ![Kotlin](https://img.shields.io/badge/Kotlin-1E7775?style=for-the-badge&logo=java&logoColor=E9D54D)
+![Maven](https://img.shields.io/badge/-Maven-1E7775?style=for-the-badge)
+![Spring](https://img.shields.io/badge/-Spring-1E7775?style=for-the-badge&logo=spring)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-1E7775?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
 
 ![C](https://img.shields.io/badge/-C-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
