@@ -1,7 +1,7 @@
 ## Hi there, I'm Katarina Molotova 
 
 
-I study at the school of programming from Sber "School 21". I am graduating from college with a degree in Computer Systems Programming. And in the future I want to be a developer.
+I'm a graduate of school of programming from Sber "School 21" and college with a degree in Computer Systems Programming. My main focus is Java/Kotlin backend development.
 
 ### Languages and tools
 
